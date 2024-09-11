@@ -1,0 +1,19 @@
+{
+  "name": "atividade-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "media": "node segunda-atividade/media/script.js",
+    "calculadora": "node segunda-atividade/calculadora/script.js",
+    "regressiva": "node segunda-atividade/contagem-regressiva/script.js",
+    "parOuImpar": "node segunda-atividade/par-ou-impar/script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
